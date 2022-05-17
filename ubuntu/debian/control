@@ -43,7 +43,7 @@ Description: Ignition Robotics Plugin Library - Development files
  .
  Package contains the development files
 
-Package: ignition-plugin-cli
+Package: ignition-plugin2-cli
 Architecture: any
 Depends: libignition-plugin2 (= ${binary:Version}),
          ${shlibs:Depends},
