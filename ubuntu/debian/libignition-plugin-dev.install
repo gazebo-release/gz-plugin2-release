@@ -1,7 +1,7 @@
 usr/include/*
 usr/lib/*/*.so
 usr/lib/*/pkgconfig/*.pc
-usr/lib/*/cmake/ignition-plugin*/*
-usr/lib/ruby/ignition/*
-usr/share/ignition/*
-usr/share/ignition/*/*
+usr/lib/*/cmake/+(ignition|gz)-plugin*/*
+usr/lib/ruby/+(ignition|gz)/*
+usr/share/+(ignition|gz)/*
+usr/share/+(ignition|gz)/*/*
