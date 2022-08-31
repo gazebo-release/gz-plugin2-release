@@ -1,2 +1,3 @@
-# Needs to be migrated to libexec
 usr/libexec/*/
+usr/lib/ruby/*/*
+usr/share/gz/*.completion*/*
