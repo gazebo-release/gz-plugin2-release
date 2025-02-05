@@ -1,3 +1,9 @@
+gz-plugin2 (2.0.4-1~focal) focal; urgency=medium
+
+  * gz-plugin2 2.0.4-1 release
+
+ -- Addisu Z. Taddese <addisu@openrobotics.org>  Wed, 05 Feb 2025 15:11:31 -0600
+
 gz-plugin2 (2.0.3-1~focal) focal; urgency=medium
 
   * gz-plugin2 2.0.3-1 release
